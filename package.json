@@ -1,0 +1,15 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "A simple static website",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'No start script defined'"
+  },
+  "keywords": [
+    "rockformation a",
+    "website"
+  ],
+  "author": "Syam",
+  "license": "MIT"
+}
